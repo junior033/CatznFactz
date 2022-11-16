@@ -1,0 +1,58 @@
+h1, h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+header {
+    padding-top: 10px;
+    height: 125px;
+    background-color: antiquewhite;
+    
+}
+
+img {
+    width: 350px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fact{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.picScript{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+
+li {
+    padding: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+a {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+footer {
+    padding-top: 10px;
+    height: 50px;
+    background-color: antiquewhite;
+}
+
+/* #footerA {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+} */
